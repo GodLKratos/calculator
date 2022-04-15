@@ -1,0 +1,130 @@
+#div{
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    height: 500px;
+    width: 550px;
+    border-radius: 20px;
+    background-color:grey;
+    position: absolute;
+    top: 150px;
+    left: 500px;
+}
+
+#inp{
+    height: 80px;
+    width: 450px;
+    text-align: end;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    border-radius: 10px;
+    color: black;
+    font-weight: bold;
+    font-size: medium;
+}
+#btn2{
+    position: absolute;
+    top: 150px;
+    left: 70px;
+}
+#btn3{
+    position: absolute;
+    top: 150px;
+    left: 180px;
+}
+
+#btn4{
+    position: absolute;
+    top: 150px;
+    left: 290px;
+}
+#btn11{
+    position: absolute;
+    top: 150px;
+    left: 400px;
+}
+#btn5{
+    position: absolute;
+    top: 220px;
+    left: 70px;
+}
+
+#btn6{
+    position: absolute;
+    top: 220px;
+    left: 180px;
+}
+#btn7{
+    position: absolute;
+    top: 220px;
+    left: 290px;
+}
+#btn12{
+    position: absolute;
+    top: 220px;
+    left: 400px;
+}
+#btn8{
+    position: absolute;
+    top: 290px;
+    left: 70px;
+}
+#btn9{
+    position: absolute;
+    top: 290px;
+    left: 180px;
+}
+#btn10{
+    position: absolute;
+    top: 290px;
+    left: 290px;
+}
+#btn13{
+    position: absolute;
+    top: 290px;
+    left: 400px;
+}
+#btn16{
+    position: absolute;
+    top: 360px;
+    left: 70px;
+}
+#btn1{
+    position: absolute;
+    top: 360px;
+    left: 180px;
+}
+#btn17{
+    position: absolute;
+    top: 360px;
+    left: 290px;
+}
+#btn14{
+    position: absolute;
+    top: 360px;
+    left: 400px;
+}
+#btn15{
+    position: absolute;
+    top: 430px;
+    left: 70px;
+    width: 210px;
+}
+#btn18{
+    position: absolute;
+    top: 430px;
+    left: 300px;
+    width: 200px;
+}
+.cal{
+    width: 100px;
+    height: 60px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+
+body{
+    background-image: url(calculator.webp);
+}
